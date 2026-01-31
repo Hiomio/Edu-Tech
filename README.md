@@ -9,13 +9,11 @@
 
 ## 🟢 Live 
 
-StudyByte Live URL - https://studybyte.vercel.app/
-
 ⚡ check email spam 📂 folder if you not received any OTP for signup.
 
 ## 🔥Installation
 
-1.  Clone Repository: `https://github.com/Sameerkhan9412/StudyByte.git`
+1.  Clone Repository: `https://github.com/Hiomio/Edu-Tech.git`
 2. Navigate to the project directory: `cd`
 3. Install dependencies for frontend : `npm install`
 4. navigate to server  and install dependencies:`npm install`
